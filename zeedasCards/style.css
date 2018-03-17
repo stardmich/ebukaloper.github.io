@@ -1,0 +1,354 @@
+* {
+    font-family: "Open Sans", open-sans, sans-serif !important;
+}
+
+body {
+  background: #fdfdfd;
+}
+
+.rectangle {
+    position: relative;
+    width: 351px;
+    height: 835px;
+    left: 536px;
+    top: 15px;
+    background: #FFFFFF;
+    border: 1px solid #efefef;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-bottom: 10%;
+}
+
+#ellipse {
+    position: absolute;
+    width: 88px;
+    height: 89px;
+    left: 39%;
+    top: 20px;
+    border-radius: 50%;
+    background: url(ebuka.jpg), #C4C4C4;
+}
+
+#online {
+    border-radius: 50%;
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    left: 54%;
+    top: 3%;
+    background: #27AE60;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+#name {
+    position: absolute;
+    width: 194px;
+    height: 21px;
+    left: 37%;
+    top: 14.5%;
+    font-family: "Open Sans", open-sans, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 15px;
+    color: #5d5d5d;
+}
+
+#title {
+    position: absolute;
+    width: 88px;
+    height: 16px;
+    left: 41%;
+    top: 17%;
+    font-family: "Open Sans", open-sans, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-size: 12px;
+    color: #9a9a9a;
+}
+
+.number {
+    position: absolute;
+    width: 78px;
+    height: 47px;
+    left: 197px;
+    top: 298px;
+    font-family: "Open Sans", open-sans, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 38px;
+    color: #2D9CDB;
+}
+
+.numberText {
+    position: absolute;
+    width: 95px;
+    height: 28px;
+    left: 170px;
+    top: 345px;
+    font-family: "Open Sans", open-sans, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-size: 11px;
+    color: #4F4F4F;
+}
+
+
+.holderLeft {
+    right: 35%;
+    top: -12%;
+    position: relative;
+}
+
+.holderRight {
+    right: -9%;
+    top: -12%;
+    position: relative;
+}
+
+.line {
+    position: absolute;
+    width: 47px;
+    height: 0px;
+    left: 314px;
+    top: 298px;
+    border: 1px solid #E0E0E0;
+    transform: rotate(90deg);
+}
+
+
+.bread {
+    position: relative;
+    left: -40%;
+    top: -12%;
+    margin-bottom: 7%;
+}
+
+
+.bread2 {
+    position: absolute;
+    width: 266px;
+    height: 39px;
+    left: 175px;
+    top: 95px;
+    background: #FFFFFF;
+    border: 1px solid #2D9CDB;
+    box-sizing: border-box;
+    border-radius: 500px;
+}
+
+.bread3 {
+    margin-left: -2px;
+    border-top-right-radius: 0px;
+    width: 131px;
+    height: 37px;
+    top: 412px;
+    background: #2D9CDB;
+    border: 1px solid #2D9CDB;
+    box-sizing: border-box;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 500px;
+    border-bottom-right-radius: 0px;
+}
+
+.breadText {
+    position: absolute;
+    width: 82px;
+    height: 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 11px;
+    color: #F2F2F2;
+}
+
+.text {
+    font-size: 11px;
+    margin-left: 84%;
+    color: #5d5d5d;
+    width: 167px;
+    height: 21px;
+    font-weight: 600;
+    position: absolute;
+    float: right;
+}
+
+.greyRectangle {
+    position: absolute;
+    width: 343px;
+    height: 548px;
+    left: 1px;
+    top: 33.7%;
+    background: #FAFAFA;
+    border: 2px solid #FAFAFA;
+}
+
+.borderLong {
+    position: relative;
+    width: 230px;
+    left: 35px;
+    top: 125px;
+    border: 2.7px solid #EBEBEB;
+    border-radius: 150px;
+}
+
+
+.borderShort {
+    position: absolute;
+    left: -2px;
+    top: -2px;
+    border-radius: 150px;
+}
+
+
+.middle {
+    margin-bottom: 24%;
+}
+
+.avatar {
+    width: 83px;
+    height: 83px;
+    border-radius: 50%;
+    position: absolute;
+    top: 2%;
+    left: 36%;
+    padding: 5px;
+}
+
+.ion-ios-close {
+    margin-left: 5%;
+    margin-top: 24.5%;
+    position: absolute;
+    font-size: 13px;
+    color: #eb5657;
+}
+
+.ion-clock {
+    margin-left: 5%;
+    margin-top: 24.5%;
+    position: absolute;
+    font-size: 13px;
+    color: #eb5657;
+}
+
+.ion-paper-airplane {
+    margin-left: 5%;
+    margin-top: 24.5%;
+    position: absolute;
+    font-size: 13px;
+    color: #2d9cdb;
+}
+
+.ion-flash {
+    margin-left: 5%;
+    margin-top: 24.5%;
+    position: absolute;
+    font-size: 13px;
+    color: #4aaf60;
+}
+
+.ion-network {
+    margin-left: 5%;
+    margin-top: 24.5%;
+    position: absolute;
+    font-size: 13px;
+    color: #bc6fd9;
+}
+
+.button {
+    position: relative;
+    width: 130px;
+    height: 44px;
+    background: #F2F2F2;
+    border-radius: 500px;
+    font-size: 11px;
+    color: #5d5d5d;
+    font-weight: 600;
+}
+
+
+.textButton {
+    font-size: 11px;
+    left: 12%;
+    bottom: -8px;
+    color: #5d5d5d;
+    width: 167px;
+    height: 21px;
+    font-weight: 600;
+    position: absolute;
+    padding: 18px;
+}
+
+.textButtonSend:before {
+    content: "\f2eb";
+    font-family: "Ionicons" !important;
+    background: transparent !important;
+    position: absolute;
+    left: 0px;
+    font-size: 13px;
+    font-weight: 100 !important;
+    color: #2d9cdb;
+}
+
+.textButtonDelete:before {
+    content: "\f37f";
+    font-family: "Ionicons" !important;
+    background: transparent !important;
+    position: absolute;
+    left: 0px;
+    font-size: 13px;
+    font-weight: 100 !important;
+    color: #9c9c9c;
+}
+
+.numberTextAssigned:after {
+    content: "\f391";
+    font-family: "Ionicons" !important;
+    background: transparent !important;
+    position: absolute;
+    right: 0px;
+    font-size: 13px;
+    font-weight: 100 !important;
+    color: #2d9cdb;
+    top: 2px;
+}
+
+.numberTextCompleted:after {
+    content: "\f120";
+    font-family: "Ionicons" !important;
+    background: transparent !important;
+    position: absolute;
+    right: -10px;
+    font-size: 13px;
+    font-weight: 100 !important;
+    color: #4aaf60;
+    top: 2px;
+}
+
+.rectangle:after {
+  content: "\f406";
+  font-family: "Ionicons" !important;
+  background: transparent !important;
+  position: absolute;
+  right: -10px;
+  font-size: 36px;
+  font-weight: 100 !important;
+  color: #bfbfbf;
+  top: -13px;
+}
+.close {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 464px;
+    top: 83px;
+    background: #DEDEDE;
+    border-radius: 50%
+}
