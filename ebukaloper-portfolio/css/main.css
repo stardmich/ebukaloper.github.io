@@ -697,7 +697,7 @@ body {
 
 /* PAGE BACKGROUNDS */
 .one-page-layout .site-main > section:nth-of-type(1) {
-	background-color: #2E2F2D;
+	background-color: #ECF0F0;
 	}
 .one-page-layout .site-main > section:nth-of-type(2) {
 	background-color: #ECF0F0;
@@ -709,7 +709,7 @@ body {
 	background-color: #ECF0F0;
 	}
 .one-page-layout .site-main > section:nth-of-type(5) {
-	background-color: #E5DCC5;
+	background-color: #ECF0F0;
 	}
 .one-page-layout .site-main > section:nth-of-type(6) {
 	background-color: #ECF0F0;
