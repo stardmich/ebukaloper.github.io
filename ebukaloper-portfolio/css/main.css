@@ -2463,6 +2463,9 @@ a:hover {
 .site-title { color: #fff; }
 @media screen and (min-width: 768px) {
 	.site-title { background: #1d272b; }
+  .home-section h4 {
+    max-width: 90% !important;
+  }
   /*#2f3e44*/
 }
 
