@@ -949,7 +949,19 @@ body {
             width: 100% !important; position: absolute; top: 0; left: 0; width: 0; height: 60%; background: #f6f8f8; border-radius: 16px; -webkit-transition: width 1s ease-out; transition: width 1s ease-out;
 			}
             .skill-unit .bar .progress span {
-                 position: absolute; top: -6px; left: 100%; margin-left: -2px; font-size: 1px; font-weight: bold; text-align: center; width: 15px; line-height: 15px; color: #f5f7f7; padding: 0 6px;   background: rgba(255, 255, 255, 0.46); border-radius: 50%;
+              position: absolute;
+  top: -6px;
+  left: 100%;
+  margin-left: -2px;
+  font-size: 1px;
+  font-weight: bold;
+  text-align: center;
+  width: 15px;
+  line-height: 15px;
+  color: #ffffff;
+  padding: 0 6px;
+  background: rgb(255, 255, 255);
+  border-radius: 50%;
 			   }
 
 /* TESTIMONIAL */
