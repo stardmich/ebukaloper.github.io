@@ -28,9 +28,9 @@
   font-style: normal;
 }
 @font-face {
-  font-family: 'WooCommerce';
-  src: url('../images/fonts/WooCommerce.eot');
-  src: url('../images/fonts/WooCommerce.eot?#iefix') format('embedded-opentype'), url('../images/fonts/WooCommerce.woff') format('woff'), url('../images/fonts/WooCommerce.ttf') format('truetype'), url('../images/fonts/WooCommerce.svg#WooCommerce') format('svg');
+  font-family: 'ebukalopercommerce';
+  src: url('../images/fonts/ebukalopercommerce.eot');
+  src: url('../images/fonts/ebukalopercommerce.eot?#iefix') format('embedded-opentype'), url('../images/fonts/ebukalopercommerce.woff') format('woff'), url('../images/fonts/ebukalopercommerce.ttf') format('truetype'), url('../images/fonts/ebukalopercommerce.svg#ebukalopercommerce') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -1560,7 +1560,7 @@ p.demo_store {
   left: 0;
   font-size: 15px;
   text-indent: 0;
-  font-family: 'WooCommerce';
+  font-family: 'ebukalopercommerce';
   content: "\e017";
 }
 .ebukalopercommerce #content-container a.button.add_to_cart_button:hover.added:before,
@@ -2250,7 +2250,7 @@ p.demo_store {
 .ebukalopercommerce-page p.stars a.star-4:after,
 .ebukalopercommerce p.stars a.star-5:after,
 .ebukalopercommerce-page p.stars a.star-5:after {
-  font-family: "WooCommerce";
+  font-family: "ebukalopercommerce";
   text-indent: 0;
   position: absolute;
   top: 0;
@@ -3073,7 +3073,7 @@ p.demo_store {
 }
 .ebukalopercommerce ul.digital-downloads li:before,
 .ebukalopercommerce-page ul.digital-downloads li:before {
-  font-family: 'WooCommerce';
+  font-family: 'ebukalopercommerce';
   speak: none;
   font-weight: normal;
   font-variant: normal;
@@ -3132,7 +3132,7 @@ p.demo_store {
 }
 .ebukalopercommerce .widget_layered_nav ul li.chosen a:before,
 .ebukalopercommerce-page .widget_layered_nav ul li.chosen a:before {
-  font-family: 'WooCommerce';
+  font-family: 'ebukalopercommerce';
   speak: none;
   font-weight: normal;
   font-variant: normal;
@@ -3181,7 +3181,7 @@ p.demo_store {
 }
 .ebukalopercommerce .widget_layered_nav_filters ul li a:before,
 .ebukalopercommerce-page .widget_layered_nav_filters ul li a:before {
-  font-family: 'WooCommerce';
+  font-family: 'ebukalopercommerce';
   speak: none;
   font-weight: normal;
   font-variant: normal;
@@ -3366,7 +3366,7 @@ p.demo_store {
 .ebu-woo-cart .widget_shopping_cart .buttons:after {
   clear: both;
 }
-/*WOOCOMMERCE*/
+/*ebukalopercommerce*/
 .ebu-woo-cart {
   background: #fff;
   padding: 20px;
