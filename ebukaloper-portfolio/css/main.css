@@ -2453,9 +2453,9 @@ body {
 a {
  	color: #096;
 	}
-a:hover {
+/*a:hover {
  	color: #8ACB82;
-	}
+	}*/
 
 /* Text Selection */
 ::selection {
@@ -2544,3 +2544,9 @@ a.more-link:hover,
  a:after, span:after {
     /*background: #00baba;*/
 }*/
+
+
+.inner:hover {
+    color: #3c9966 !important;
+    text-decoration: underline !important;
+}
